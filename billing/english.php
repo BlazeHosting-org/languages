@@ -1,6 +1,5 @@
 <?php
 // CENSORED WHMCS CODE
-$_LANG['locale'] = "en_GB";
 $_LANG['accountinfo'] = "Account Information";
 $_LANG['accountstats'] = "Account Statistics";
 $_LANG['addfunds'] = "Add Funds";
