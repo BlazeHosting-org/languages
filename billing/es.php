@@ -1,7 +1,7 @@
 <?php
 // CENSORED WHMCS CODE
-$_LANG['accountinfo'] = "Account Information";
-$_LANG['accountstats'] = "Account Statistics";
+$_LANG['accountinfo'] = "Información de la cuenta";
+$_LANG['accountstats'] = "Estadísticas de la cuenta";
 $_LANG['addfunds'] = "Add Funds";
 $_LANG['addfundsamount'] = "Amount to Add";
 $_LANG['addfundsmaximum'] = "Maximum Deposit";
